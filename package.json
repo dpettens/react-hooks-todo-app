@@ -1,0 +1,27 @@
+{
+  "name": "todos-app-with-react-hooks",
+  "version": "1.0.0",
+  "description": "Inspired from https://github.com/yazeedb/react-hooks-todo",
+  "keywords": [],
+  "main": "src/index.jsx",
+  "dependencies": {
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-jss": "8.6.1",
+    "react-scripts": "2.1.8",
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
